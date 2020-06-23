@@ -1,0 +1,30 @@
+11:16:11.451 [main] INFO  dev.console.App -
+				Bonjour Slf4J !
+11:16:11.455 [main] INFO  dev.console.App -
+				Implementation Logback
+11:18:55.789 [main] INFO  dev.console.App -
+				Bonjour Slf4J !
+11:18:55.793 [main] INFO  dev.console.App -
+				Implementation Logback
+11:20:55.716 [main] INFO  dev.console.App -
+				Bonjour Slf4J !
+11:20:55.720 [main] INFO  dev.console.App -
+				Implementation Logback
+11:22:21.176 [main] INFO  dev.console.App -
+				Bonjour Slf4J !
+11:22:21.179 [main] INFO  dev.console.App -
+				Implementation Logback
+11:25:17.814 [main] INFO  dev.console.App -
+				Bonjour Slf4J !
+11:25:17.817 [main] INFO  dev.console.App -
+				Implementation Logback
+11:25:32.795 [main] INFO  dev.console.App -
+				Bonjour Slf4J !
+11:25:32.802 [main] INFO  dev.console.App -
+				Implementation Logback
+11:26:46.769 [main] INFO  dev.console.App -
+				Bonjour Slf4J !
+11:26:46.779 [main] INFO  dev.console.App -
+				Implementation Logback
+11:26:46.780 [main] INFO  dev.service.AppService -
+				Traitement 1 : param = Bonjour
